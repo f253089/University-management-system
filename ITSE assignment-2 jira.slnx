@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ITSE assignment-2 jira/ITSE assignment-2 jira.vcxproj" />
+</Solution>
